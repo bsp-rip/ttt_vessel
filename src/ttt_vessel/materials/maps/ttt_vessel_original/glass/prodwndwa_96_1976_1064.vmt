@@ -1,0 +1,9 @@
+"patch"
+{
+	"include"		"materials/GLASS/PRODWNDWA.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_vessel_original/c96_1976_1064"
+		"$crackmaterial"		"maps/ttt_vessel_original/glass/glasswindowbreak070b_96_1976_1064"
+	}
+}

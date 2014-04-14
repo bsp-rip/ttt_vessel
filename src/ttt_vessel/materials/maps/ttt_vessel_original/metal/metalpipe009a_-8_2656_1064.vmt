@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALPIPE009A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_vessel_original/c-8_2656_1064"
+	}
+}

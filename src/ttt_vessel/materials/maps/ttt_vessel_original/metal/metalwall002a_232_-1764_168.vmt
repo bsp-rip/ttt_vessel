@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALWALL002A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_vessel_original/c232_-1764_168"
+	}
+}

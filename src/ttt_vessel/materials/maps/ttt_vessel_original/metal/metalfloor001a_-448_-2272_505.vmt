@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALFLOOR001A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_vessel_original/c-448_-2272_505"
+	}
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/ENVIRONMENT MAPS/PIPEMETAL001A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_vessel_original/c336_-2256_666"
+	}
+}

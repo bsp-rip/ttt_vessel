@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/DE_NUKE/NUKDOORSB.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_vessel_original/c96_1976_1064"
+	}
+}
